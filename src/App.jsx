@@ -5,7 +5,7 @@ import Riwayat from "./pages/Riwayat";
 import Akun from "./pages/Akun";
 import Daftar from "./pages/Daftar";
 import Login from "./pages/Login";
-import Faq from "./pages/faq";
+import Faq from "./pages/Faq";
 import SyaratKetentuan from "./pages/SyaratKetentuan";
 import TentangKitaBantu from "./pages/TentangKitaBantu";
 import LupaKataSandi from "./pages/LupaKataSandi";
