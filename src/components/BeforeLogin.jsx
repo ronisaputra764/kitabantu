@@ -15,7 +15,7 @@ export default function BeforeLogin() {
                         <Link to={"/login"} className="text-[#FE9AA0] bg-white text-lg font-[500] shadow-lg py-2 rounded-full w-full ">Masuk Sekarang</Link>
                         <p className="text-white">Belum Punya Akun? <Link to="/daftar" className="font-semibold">Daftar</Link></p>
                     </div>
-                    <div className="w-full rounded-t-[50px] bg-white px-10 pt-5">
+                    <div className="w-full min-h-screen rounded-t-[50px] bg-white px-10 pt-5">
                         <div>
                             <Link to={"/faq"} className="flex justify-between items-center border-b-[1px] p-4">
                                 <p className="text-gray-600"><FontAwesomeIcon className="me-2 text-[#FE9AA0]" icon={faCircleQuestion} />Frequently Asked Question</p>
